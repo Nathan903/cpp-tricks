@@ -16,4 +16,5 @@ bool isPowerOfTwo (int x){
   return x && (!(x&(x-1)));
 }
 
-
+//equal to the largest power of 2 that divides x
+n & -n;
